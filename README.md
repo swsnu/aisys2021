@@ -19,7 +19,7 @@
 | Week11 5.11/13 | ML Serving: Clipper, Pretzel, Nexus, Clockwork.              | 
 | Week12 5.18/20 | GPU Cluster Management: Gandiva, Tiresias                    | 
 | Week13 5.25/27 | ML Input Pipeline<br />AutoML: Vizier, Hippo, Retiarii       |  
-| Week14 6.1/3   | TBD                                                          |   
+| Week14 6.1/3   | Mobile ML                                                    |   
 | Week15 6.8/10  | Final project presentation                                   |  
 | Week16 6.15    | Project report due - TBD                                     | 
 
