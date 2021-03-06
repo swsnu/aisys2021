@@ -32,4 +32,8 @@
 - [FacebookAIInfra](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf). Applied Machine Learning at Facebook:
 A Datacenter Infrastructure Perspective. Kim Hazelwood, Sarah Bird, David Brooks, Soumith Chintala, Utku Diril, Dmytro Dzhulgakov, Mohamed Fawzy, Bill Jia, Yangqing Jia, Aditya Kalro, James Law, Kevin Lee, Jason Lu, Pieter Noordhuis, Misha Smelyanskiy, Liang Xiong, Xiaodong Wang. HPCA 2018.
 
-
+### 3/16
+#### Required reading
+- [Hidden](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf). Hidden Technical Debt in Machine Learning Systems.
+- [MLPerfTraining](https://arxiv.org/pdf/1910.01500.pdf). MLPerf Training Benchmark.
+- [MLPerfInf](https://arxiv.org/pdf/1911.02549.pdf). MLPerf Inference Benchmark.
