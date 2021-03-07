@@ -9,7 +9,7 @@
 | Week1 3.2/4    | Course overview.<br />ML infrastructure case study (Guest lecture). | 
 | Week2 3.9/11   | MLSys. Facebook AI Infra.<br />AI Hardware: GPU (Guest lecture), TPU |  
 | Week3 3.16/18  | ML lifecycles. Hidden technical debt.<br />Benchmarks: MLPerf. GPU Profiling<br />Large-scale recommendation system (Guest lecture)| 
-| Week4 3.23/25  | ML frameworks: TensorFlow, PyTorch, JANUS.                   |
+| Week4 3.23/25  | ML frameworks: TensorFlow, PyTorch, JANUS. </br>AI for Mission Critical Applications (Geust lecture)|
 | Week5 3.30/4.1 | ML Compiler: Halide, TVM.                                    | 
 | Week6 4.6/8    | ML graph optimization: TASO, FlexFlow, NeoCPU.               |  
 | Week7 4.13/15  | ML scheduling optimization: Nimble, Rammer.                  |  
