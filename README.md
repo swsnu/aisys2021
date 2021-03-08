@@ -38,6 +38,12 @@ A Datacenter Infrastructure Perspective. Kim Hazelwood, Sarah Bird, David Brooks
 - [MLPerfTraining](https://arxiv.org/pdf/1910.01500.pdf). MLPerf Training Benchmark.
 - [MLPerfInf](https://arxiv.org/pdf/1911.02549.pdf). MLPerf Inference Benchmark.
 
+### 3/18
+#### Extra reading
+- Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017.
+- Tripartite heterogeneous graph propagation for large-scale social recommendation, RecSys 2019.
+- Graph Neural Networks in Recommender Systems: A Survey, J. ACM 2020.
+
 ### 3/23
 #### Required reading
 - [TensorFlow](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf). TensorFlow: A System for Large-Scale
