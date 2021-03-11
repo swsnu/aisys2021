@@ -10,7 +10,7 @@
 | Week2 3.9/11   | MLSys. Facebook AI Infra.<br />AI Hardware: GPU (Guest lecture), TPU |  
 | Week3 3.16/18  | ML lifecycles. Hidden technical debt.<br />Benchmarks: MLPerf. GPU Profiling<br />Large-scale recommendation system (Guest lecture)| 
 | Week4 3.23/25  | ML frameworks: TensorFlow, PyTorch, JANUS. |
-| Week5 3.30/4.1 | ML Compiler: Halide, TVM.   </br>AI for Mission Critical Applications (Geust lecture) | 
+| Week5 3.30/4.1 | ML Compiler: Halide, TVM.   </br>AI for Mission Critical Applications (Guest lecture) | 
 | Week6 4.6/8    | ML graph optimization: TASO, FlexFlow, NeoCPU.               |  
 | Week7 4.13/15  | ML scheduling optimization: Nimble, Rammer. </br> 경로시간 정확도 개선 (Guest lecture) |  
 | Week8 4.20/22  | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream | 
