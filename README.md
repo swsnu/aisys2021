@@ -48,8 +48,6 @@ A Datacenter Infrastructure Perspective. Kim Hazelwood, Sarah Bird, David Brooks
 #### Required reading
 - [TensorFlow](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf). TensorFlow: A System for Large-Scale
 Machine Learning. Martín Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Geoffrey Irving, Michael Isard, Manjunath Kudlur, Josh Levenberg, Rajat Monga, Sherry Moore, Derek G. Murray, Benoit Steiner, Paul Tucker, Vijay Vasudevan, Pete Warden, Martin Wicke, Yuan Yu, Xiaoqiang Zheng. OSDI 2016.
-- [PyTorch](https://papers.nips.cc/paper/2019/file/bdbca288fee7f92f2bfa9f7012727740-Paper.pdf). PyTorch: An Imperative Style, High-Performance
-Deep Learning Library. NeurIPS 2019.
 
 #### Extra reading
 - [TenorFlowDCF](https://arxiv.org/pdf/1805.01772.pdf). Dynamic Control Flow in Large-Scale Machine Learning. Yuan Yu, Martin Abadi, Paul Barham, Eugene Brevdo, Mike Burrows, Andy Davis, Jeff Dean, Sanjay Ghemawat, Tim Harley, Peter Hawkins, Michael Isard, Manjunath Kudlur, Rajat Monga, Derek Murray, Xiaoqiang Zheng. EuroSys 2018.
@@ -58,6 +56,8 @@ Deep Learning Library. NeurIPS 2019.
 
 ### 3/25
 #### Required reading
+- [PyTorch](https://papers.nips.cc/paper/2019/file/bdbca288fee7f92f2bfa9f7012727740-Paper.pdf). PyTorch: An Imperative Style, High-Performance
+Deep Learning Library. NeurIPS 2019.
 - [JANUS](https://www.usenix.org/system/files/nsdi19-jeong.pdf). JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs. Eunji Jeong, Sungwoo Cho, Gyeong-In Yu, Joo Seong Jeong, Dong-Jin Shin, Byung-Gon Chun. NSDI 2019.
 
 #### Extra reading
