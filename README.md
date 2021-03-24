@@ -11,7 +11,7 @@
 | Week3 3.16/18  | ML lifecycles. Hidden technical debt.<br />Benchmarks: MLPerf. GPU Profiling<br />Large-scale recommendation system (Guest lecture)| 
 | Week4 3.23/25  | ML frameworks: TensorFlow, PyTorch, JANUS. |
 | Week5 3.30/4.1 | ML Compiler: Halide, TVM.   </br>AI for Mission Critical Applications (Guest lecture) | 
-| Week6 4.6/8    | ML graph optimization: TASO, FlexFlow, NeoCPU.               |  
+| Week6 4.6/8    | Proposal lightening talks. ML graph optimization: TASO, FlexFlow, NeoCPU. |  
 | Week7 4.13/15  | ML scheduling optimization: Nimble, Rammer. </br> 경로시간 정확도 개선 (Guest lecture) |  
 | Week8 4.20/22  | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream | 
 | Week9 4.27/29  | Mid Project Presentation                                     |                          |
@@ -73,3 +73,5 @@ Deep Learning Library. NeurIPS 2019.
 - [TC](https://arxiv.org/pdf/1802.04730.pdf). Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions. Nicolas Vasilache, Oleksandr Zinenko, Theodoros Theodoridis, Priya Goyal, Zachary DeVito, William S. Moses, Sven Verdoolaege, Andrew Adams, Albert Cohen. 2018.
 - [TACO](http://tensor-compiler.org/kjolstad-oopsla17-tensor-compiler.pdf). The Tensor Algebra Compiler. Kjolstad, Fredrik and Kamil, Shoaib and Chou, Stephen and Lugato, David and Amarasinghe, Saman. OOPSLA 2017.
 - [Ansor](https://www.usenix.org/system/files/osdi20-zheng.pdf). Lianmin Zheng, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica. Ansor: Generating High-Performance Tensor Programs for Deep Learning. OSDI 2020.
+
+
