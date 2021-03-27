@@ -67,6 +67,10 @@ Deep Learning Library. NeurIPS 2019.
 ### 3/30
 #### Required reading
 - [Halide](https://people.csail.mit.edu/jrk/halide-pldi13.pdf). Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines. Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Fredo Durand, Saman Amarasinghe. PLDI 2013.
+
+
+### 4/6
+#### Required reading
 - [TVM](https://www.usenix.org/system/files/osdi18-chen.pdf). An Automated End-to-End Optimizing Compiler for Deep Learning. Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, Meghan Cowan, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy. OSDI 2018.
 
 #### Extra reading
@@ -74,4 +78,12 @@ Deep Learning Library. NeurIPS 2019.
 - [TACO](http://tensor-compiler.org/kjolstad-oopsla17-tensor-compiler.pdf). The Tensor Algebra Compiler. Kjolstad, Fredrik and Kamil, Shoaib and Chou, Stephen and Lugato, David and Amarasinghe, Saman. OOPSLA 2017.
 - [Ansor](https://www.usenix.org/system/files/osdi20-zheng.pdf). Lianmin Zheng, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica. Ansor: Generating High-Performance Tensor Programs for Deep Learning. OSDI 2020.
 
+
+### 4/8
+#### Required reading
+- [TASO](https://cs.stanford.edu/~padon/taso-sosp19.pdf). TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions. Zhihao Jia, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, Alex Aiken. SOSP 2019.
+
+#### Extra reading
+- [FlexFlow](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf). Beyond Data and Model Parallelism for Deep Neural Networks. Zhihao Jia, Matei Zaharia, Alex Aiken. SysML 2019.
+- [NeoCPU](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf). Optimizing CNN Model Inference on CPUs. Yizhi Liu, Yao Wang, Ruofei Yu, Mu Li, Vin Sharma, Yida Wang. ATC 2019.
 
