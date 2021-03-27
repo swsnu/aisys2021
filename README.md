@@ -87,3 +87,8 @@ Deep Learning Library. NeurIPS 2019.
 - [FlexFlow](https://cs.stanford.edu/~zhihao/papers/sysml19a.pdf). Beyond Data and Model Parallelism for Deep Neural Networks. Zhihao Jia, Matei Zaharia, Alex Aiken. SysML 2019.
 - [NeoCPU](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf). Optimizing CNN Model Inference on CPUs. Yizhi Liu, Yao Wang, Ruofei Yu, Mu Li, Vin Sharma, Yida Wang. ATC 2019.
 
+
+### 4/13
+#### Required reading
+- [Nimble](https://papers.nips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf). Nimble: Lightweight and Parallel GPU Task Scheduling for Deep Learning. Woosuk Kwon, Gyeong-In Yu, Eunji Jeong, Byung-Gon Chun. NeurIPS 2020 (Spotlight).
+- [Rammer](https://www.usenix.org/system/files/osdi20-ma.pdf). Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks. Lingxiao Ma, Zhiqiang Xie, Zhi Yang, Jilong Xue, Youshan Miao, Wei Cui, Wenxiang Hu, Fan Yang, Lintao Zhang, Lidong Zhou. OSDI 2020.
