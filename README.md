@@ -102,3 +102,7 @@ Deep Learning Library. NeurIPS 2019.
 - [PS](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf). Scaling Distributed Machine Learning with the Parameter Server. Mu Li, David G. Andersen, Jun Woo Park, Alexander J. Smola, Amr Ahmed, Vanja Josifovski, James Long, Eugene J. Shekita, and Bor-Yiing Su. OSDI 2014.
 - [Petuum](http://www.cs.cmu.edu/~seunghak/petuum_kdd15.pdf). Petuum: A New Platform for Distributed Machine Learning on Big Data. Eric P. Xing, Qirong Ho, Wei Dai, Jin Kyu Kim, Jinliang Wei, Seunghak Lee, Xun Zheng, Pengtao Xie, Abhimanu Kumar, and Yaoliang Yu. KDD 2015.
 - [Adam](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf). Project Adam: Building an Efficient and Scalable Deep Learning Training System. Trishul Chilimbi, Yutaka Suzue, Johnson Apacible, and Karthik Kalyanaraman. OSDI 2014.
+
+### 4/27 
+#### Required reading
+- [ByteScheduler](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf). A Generic Communication Scheduler for Distributed DNN Training Acceleration. Yanghua Peng, Yibo Zhu, Yangrui Chen, Yixin Bao, Bairen Yi, Chang Lan. SOSP 2019.
