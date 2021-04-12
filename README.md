@@ -11,15 +11,15 @@
 | Week3 3.16/18  | ML lifecycles. Hidden technical debt.<br />Benchmarks: MLPerf. GPU Profiling<br />Large-scale recommendation system (Guest lecture)| 
 | Week4 3.23/25  | ML frameworks: TensorFlow, PyTorch, JANUS. |
 | Week5 3.30/4.1 | ML Compiler: Halide, TVM.   </br>AI for Mission Critical Applications (Guest lecture) | 
-| Week6 4.6/8    | Proposal lightening talks. ML graph optimization: TASO, FlexFlow, NeoCPU. |  
-| Week7 4.13/15  | ML scheduling optimization: Nimble, Rammer. </br> 경로시간 정확도 개선 (Guest lecture) |  
-| Week8 4.20/22  | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream | 
-| Week9 4.27/29  | Mid Project Presentation                                     |                          |
+| Week6 4.6/8    | Proposal  talks.  |  
+| Week7 4.13/15  | ML graph optimization: TASO, FlexFlow, NeoCPU.</br> 경로시간 정확도 개선 (Guest lecture) |  
+| Week8 4.20/22  | ML runtime optimization: Nimble, Rammer, Model-specific optimization: GNNAdvisor | 
+| Week9 4.27/29  | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream. </br>Shopping AI (Guest lecture) |
 | Week10 5.4/6   | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream | 
-| Week11 5.11/13 | ML Serving: Clipper, Pretzel, Nexus, Clockwork.              | 
-| Week12 5.18/20 | GPU Cluster Management: Gandiva, Tiresias                    | 
-| Week13 5.25/27 | ML Input Pipeline<br />AutoML: Vizier, Hippo, Retiarii       |  
-| Week14 6.1/3   | Mobile ML                                                    |   
+| Week11 5.11/13 | Mid presentation.   ML Serving: Clipper, Pretzel, Nexus, Clockwork.   | 
+| Week12 5.18/20 |  GPU Cluster Management: Gandiva, Tiresias                    | 
+| Week13 5.25/27 | ML Input Pipeline<br />AutoML: Vizier, Hippo, Retiarii. </br>Data input pipeline (Guest lecture) |  
+| Week14 6.1/3   | Mobile ML.</br>TBD (Guest lecture)                                                    |   
 | Week15 6.8/10  | Final project presentation                                   |  
 | Week16 6.15    | Project report due - TBD                                     | 
 
