@@ -79,7 +79,7 @@ Deep Learning Library. NeurIPS 2019.
 - [Ansor](https://www.usenix.org/system/files/osdi20-zheng.pdf). Lianmin Zheng, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica. Ansor: Generating High-Performance Tensor Programs for Deep Learning. OSDI 2020.
 
 
-### 4/8
+### 4/13
 #### Required reading
 - [TASO](https://cs.stanford.edu/~padon/taso-sosp19.pdf). TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions. Zhihao Jia, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, Alex Aiken. SOSP 2019.
 
@@ -88,7 +88,17 @@ Deep Learning Library. NeurIPS 2019.
 - [NeoCPU](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf). Optimizing CNN Model Inference on CPUs. Yizhi Liu, Yao Wang, Ruofei Yu, Mu Li, Vin Sharma, Yida Wang. ATC 2019.
 
 
-### 4/13
+### 4/20
 #### Required reading
 - [Nimble](https://papers.nips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf). Nimble: Lightweight and Parallel GPU Task Scheduling for Deep Learning. Woosuk Kwon, Gyeong-In Yu, Eunji Jeong, Byung-Gon Chun. NeurIPS 2020 (Spotlight).
 - [Rammer](https://www.usenix.org/system/files/osdi20-ma.pdf). Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks. Lingxiao Ma, Zhiqiang Xie, Zhi Yang, Jilong Xue, Youshan Miao, Wei Cui, Wenxiang Hu, Fan Yang, Lintao Zhang, Lidong Zhou. OSDI 2020.
+
+### 4/22
+#### Required reading
+- [Parallax](https://https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf). Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks. Soojeong Kim, Gyeong-In Yu, Hojin Park, Sungwoo Cho, Eunji Jeong, Hyeonmin Ha, Sanha Lee, Joo Seong Jeong, Byung-Gon Chun. EuroSys 2019.
+
+#### Extra reading
+- [Horovod](https://arxiv.org/pdf/1802.05799.pdf). Horovod: fast and easy distributed deep learning in TensorFlow. Alexander Sergeev and Mike Del Balso, arXiv 2018.
+- [PS](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf). Scaling Distributed Machine Learning with the Parameter Server. Mu Li, David G. Andersen, Jun Woo Park, Alexander J. Smola, Amr Ahmed, Vanja Josifovski, James Long, Eugene J. Shekita, and Bor-Yiing Su. OSDI 2014.
+- [Petuum](http://www.cs.cmu.edu/~seunghak/petuum_kdd15.pdf). Petuum: A New Platform for Distributed Machine Learning on Big Data. Eric P. Xing, Qirong Ho, Wei Dai, Jin Kyu Kim, Jinliang Wei, Seunghak Lee, Xun Zheng, Pengtao Xie, Abhimanu Kumar, and Yaoliang Yu. KDD 2015.
+- [Adam](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf). Project Adam: Building an Efficient and Scalable Deep Learning Training System. Trishul Chilimbi, Yutaka Suzue, Johnson Apacible, and Karthik Kalyanaraman. OSDI 2014.
