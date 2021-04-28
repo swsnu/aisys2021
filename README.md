@@ -18,7 +18,7 @@
 | Week10 5.4/6   | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream | 
 | Week11 5.11/13 | Mid presentation.   ML Serving: Clipper, Pretzel, Nexus, Clockwork.   | 
 | Week12 5.18/20 |  GPU Cluster Management: Gandiva, Tiresias                    | 
-| Week13 5.25/27 | ML Input Pipeline<br />AutoML: Vizier, Hippo, Retiarii. </br>Data input pipeline (Guest lecture) |  
+| Week13 5.25/27 | ML Input Pipeline<br />AutoML: Vizier, Retiarii. </br>Data input pipeline (Guest lecture) |  
 | Week14 6.1/3   | Mobile ML.</br>TBD (Guest lecture)                                                    |   
 | Week15 6.8/10  | Final project presentation                                   |  
 | Week16 6.15    | Project report due - TBD                                     | 
