@@ -110,3 +110,21 @@ Deep Learning Library. NeurIPS 2019.
 ### 5/4 
 #### Required reading
 - [ByteScheduler](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf). A Generic Communication Scheduler for Distributed DNN Training Acceleration. Yanghua Peng, Yibo Zhu, Yangrui Chen, Yixin Bao, Bairen Yi, Chang Lan. SOSP 2019.
+
+#### Recommended reading
+- [BytePS](https://www.usenix.org/system/files/osdi20-jiang.pdf). A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters. Yimin Jiang, Yibo Zhu, Chang Lan, Bairen Yi, Yong Cui, Chuanxiong Guo. OSDI 2020.
+
+### 5/6
+#### Required reading
+- [GPipe](https://papers.nips.cc/paper/2019/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf). GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism. Yanping Huang, Youlong Cheng, Ankur Bapna, Orhan Firat, Mia Xu Chen, Dehao Chen, HyoukJoong Lee, Jiquan Ngiam, Quoc V. Le, Yonghui Wu, Zhifeng Chen. NeurIPS 2019.
+- [PipeDream](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf). PipeDream: Generalized Pipeline Parallelism for DNN Training. Deepak Narayanan, Aaron Harlap, Amar Phanishayee, Vivek Seshadri, Nikhil R. Devanur, Gregory R. Ganger, Philip B. Gibbons, Matei Zaharia. SOSP 2019.
+
+### 5/18
+#### Required reading
+- [PRETZEL](https://www.usenix.org/system/files/osdi18-lee.pdf). PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems. Yunseong Lee, Alberto Scolari, Byung-Gon Chun, Marco Domenico Santambrogio, Markus Weimer, Matteo Interlandi. OSDI 2018.
+
+### 5/20
+#### Required reading
+- [Clockwork](https://www.usenix.org/system/files/osdi20-gujarati.pdf). Serving DNNs like Clockwork: Performance Predictability from the Bottom Up. OSDI 2020.
+
+
