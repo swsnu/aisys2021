@@ -127,4 +127,10 @@ Deep Learning Library. NeurIPS 2019.
 #### Required reading
 - [Clockwork](https://www.usenix.org/system/files/osdi20-gujarati.pdf). Serving DNNs like Clockwork: Performance Predictability from the Bottom Up. OSDI 2020.
 
+### 5/27
+#### Required reading
+- [Gandiva](https://www.usenix.org/system/files/osdi18-xiao.pdf). Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018.
+- [Tiresias](https://www.usenix.org/system/files/nsdi19-gu.pdf). Tiresias: A GPU Cluster Manager for Distributed Deep Learning. NSDI 2019.
+
+
 
