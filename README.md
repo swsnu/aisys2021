@@ -16,10 +16,10 @@
 | Week8 4.20/22  | ML runtime optimization: Nimble, Rammer, Model-specific optimization: GNNAdvisor | 
 | Week9 4.27/29  | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream. </br>Shopping AI (Guest lecture) |
 | Week10 5.4/6   | ML Distributed Training: Horovod, Parameter Server (Google PS, BytePS), Parallax, Mesh-TensorFlow, GPipe, PipeDream | 
-| Week11 5.11/13 | Mid presentation.   ML Serving: Clipper, Pretzel, Nexus, Clockwork.   | 
-| Week12 5.18/20 |  GPU Cluster Management: Gandiva, Tiresias                    | 
-| Week13 5.25/27 | ML Input Pipeline<br />AutoML: Vizier, Retiarii. </br>Data input pipeline (Guest lecture) |  
-| Week14 6.1/3   | Mobile ML.</br>TBD (Guest lecture)                                                    |   
+| Week11 5.11/13 | Mid presentation.     | 
+| Week12 5.18/20 | ML Serving: Clipper, Pretzel, Nexus, Clockwork.                    | 
+| Week13 5.25/27 | GPU Cluster Management: Gandiva, Tiresias   </br>Data input pipeline (Guest lecture) |  
+| Week14 6.1/3   | ML Input Pipeline<br />AutoML: Vizier, Retiarii. Mobile ML.</br>TBD (Guest lecture)                                                    |   
 | Week15 6.8/10  | Final project presentation                                   |  
 | Week16 6.15    | Project report due - TBD                                     | 
 
